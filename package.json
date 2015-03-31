@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "cassandra-driver": "^2.0.0",
+    "node-uuid": "^1.4.2",
+    "uuid": "^2.0.1"
+  }
+}
